@@ -2,8 +2,8 @@
 #include <cstdlib>
 #include <cmath>
 #include <algorithm>
-#include "header_tsp.h"
-#include "param_tsp.h"
+#include "header.h"
+#include "param.h"
 using namespace std;
 
 void* my_malloc(int size){
